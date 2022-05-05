@@ -109,7 +109,7 @@ var today = new Date();
 
 let day = today.toLocaleDateString("en-US", options);
 
-// ------------- END OF DATE-------------
+// ------------- END OF DATE---------------
 
 
 
